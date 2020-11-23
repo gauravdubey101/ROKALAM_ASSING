@@ -23,3 +23,6 @@ Go to the browser and open http://127.0.0.1:3000/
 for   live stream page
 
 open index.html file 
+
+![Screenshot (293)](https://user-images.githubusercontent.com/32640041/99939783-e1b1d280-2d90-11eb-9537-71b97116dbc2.png)
+
